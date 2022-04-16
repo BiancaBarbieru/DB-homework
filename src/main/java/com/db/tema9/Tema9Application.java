@@ -1,13 +1,13 @@
-package com.example.tema8;
+package com.db.tema9;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Tema8Application {
+public class Tema9Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Tema8Application.class, args);
+		SpringApplication.run(Tema9Application.class, args);
 	}
 
 }

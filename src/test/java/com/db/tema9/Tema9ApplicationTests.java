@@ -1,10 +1,10 @@
-package com.example.tema8;
+package com.db.tema9;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Tema8ApplicationTests {
+class Tema9ApplicationTests {
 
 	@Test
 	void contextLoads() {
